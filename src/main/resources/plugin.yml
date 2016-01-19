@@ -1,0 +1,4 @@
+name: FishParkour
+version: 1.0
+depend: [WorldGuard]
+main: pl.panryba.mc.parkour.Plugin
